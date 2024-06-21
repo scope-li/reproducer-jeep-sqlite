@@ -3,7 +3,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 const config: CapacitorConfig = {
   appId: 'com.example.app',
   appName: 'reproducer-jeep-sqlite',
-  webDir: 'dist',
+  webDir: 'dist/reproducer-jeep-sqlite/browser',
   server: {
     androidScheme: 'https'
   }
